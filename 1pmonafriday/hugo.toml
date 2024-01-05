@@ -1,0 +1,14 @@
+baseURL = 'https://1pmonafriday.com/'
+languageCode = 'en-us'
+title = '1PM on a Friday'
+theme = 'ananke'
+
+[deployment]
+
+[[deployment.targets]]
+# An arbitrary name for this target.
+name = "prod"
+
+# Amazon Web Services S3; see https://gocloud.dev/howto/blob/#s3
+# For S3-compatible endpoints, see https://gocloud.dev/howto/blob/#s3-compatible
+#URL = "http://1pmonafriday.com.s3-website-us-west-2.amazonaws.com"
