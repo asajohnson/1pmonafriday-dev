@@ -1,0 +1,4 @@
+baseURL = 'https://1pmonafriday.com/'
+languageCode = 'en-us'
+title = 'Ashley'
+theme = 'hugo-PaperMod'
