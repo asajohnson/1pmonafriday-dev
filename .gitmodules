@@ -1,0 +1,4 @@
+[submodule "1pmonafriday/public"]
+	path = 1pmonafriday/public
+	url = https://github.com/asajohnson/1pmonafriday.git
+	branch = main
